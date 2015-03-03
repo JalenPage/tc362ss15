@@ -1,0 +1,3 @@
+Server IP Address: 104.236.238.199
+Domain 1: sub1.pagejale.bhstudents.net
+Domain 2: sub2.pagejale.bhstudents.net
